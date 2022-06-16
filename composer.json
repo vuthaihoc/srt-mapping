@@ -1,0 +1,19 @@
+{
+    "name": "hocvt/map_sub",
+    "autoload": {
+        "psr-4": {
+            "Hocvt\\MapSub\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vuthaihoc",
+            "email": "vuthaihoc.ttud@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^6.0",
+        "illuminate/support": "^9.17",
+        "nesbot/carbon": "^2.58"
+    }
+}
